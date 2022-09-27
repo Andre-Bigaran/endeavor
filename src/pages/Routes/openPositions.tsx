@@ -1,3 +1,4 @@
+// @ts-ignore
 import { useContext } from "react";
 import { NewWorkItemForm } from "../../components/OpenPositionsComponents/NewWorkItemForm";
 import OpenPositionsDashboard from "../../components/OpenPositionsComponents/OpenPositionDashboard";
